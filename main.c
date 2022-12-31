@@ -408,7 +408,7 @@ void register_()
  fclose(log_in);
 
  printf("\nCongratulations.You have successfully logged in.\n");
- printf("Please wait.");
+ printf("Thanks please wait.");
  Sleep(1000);
  system("cls");
  login();
